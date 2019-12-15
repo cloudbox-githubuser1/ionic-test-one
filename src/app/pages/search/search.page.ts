@@ -8,6 +8,7 @@ import { Component, OnInit } from '@angular/core';
 export class SearchPage implements OnInit {
 
   title = 'Search Page';
+  heading1 = 'This is short heading';
 
   constructor() { }
 
